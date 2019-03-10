@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body {
+  background-color: #96858F;
+  font-family: Lobster;
+}
+
+ .container {
+   position: absolute;
+   background-color: #9099A2;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   margin: auto;
+   width: 700px;
+   height: 300px;
+   border-radius: 10px;
+   font-family: Lobster;
+}
+
+#text {
+  color: #D5D5D5;
+  font-size: 40px;
+  
+}
+
+#author {
+  color: #D5D5D5;
+  font-size: 20px;
+}
+
+#new-quote{
+  color: #D5D5D5;
+}
+
+#new-quote:hover {
+  background-color: #9099A2;
+}
+
+#tweet-quote {
+  width: 50px;
+}
+
+#tweet-quote:hover {
+  background-color: #9099A2;
+  color: #D5D5D5;
+}
+
+#footer {
+  color: #D5D5D5;
+  font-family: times new roman;
+  font-size: 20px;
+  position: absolute;
+  bottom: 0;
+}
